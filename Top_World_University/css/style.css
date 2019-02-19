@@ -70,7 +70,7 @@ body{
 .infomation {
   text-align: center;
   font-size: 16px;
-/*   letter-spacing: -0.5px; */
+  letter-spacing: -0.5px;
   padding: 0px;
   margin: 0px 0px 5px 0px;
   -webkit-animation-name: example;
