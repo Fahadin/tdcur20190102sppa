@@ -60,7 +60,9 @@ span {
   padding-left: 4% !important;
 }
 .link {
-  padding-left: 0% !important;
+  background: #02212c54;
+  color: #ffffff;
+  padding: 5px;
 }
 
 body{
