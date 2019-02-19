@@ -64,12 +64,13 @@ span {
   color: #ffffff;
   padding: 5px;
 }
-
 body{
   font-family: sans-serif !important;
 }
 .infomation {
   text-align: center;
+  font-size: 16px;
+  letter-spacing: -1.3px;
   padding: 0px;
   margin: 0px 0px 5px 0px;
   -webkit-animation-name: example;
