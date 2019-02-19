@@ -2626,20 +2626,20 @@ figure img {
 
 .scrollToTop{
   background: #02212c54;
-	width:34px; 
-	height:34px;
-	padding:4px;
+	width:44px; 
+	height:44px;
+	padding:8px;
   margin-top: 100px; 
-  border-radius: 6px;
+  border-radius: 20px 20px 5px 5px;
 	text-align:center; 
 	font-weight: bold;
-	color: #ffffff;
+	color: #04151b;
 	text-decoration: none;
 	position:fixed;
 	top:72%;
 	right:45%;
 	display:none;
-  border: 1px solid rgba(0, 0, 0, .4);
+  border: .5px solid rgba(0, 0, 0, .4);
 }
 .fa-chevron-circle-up{
   position: relative;
